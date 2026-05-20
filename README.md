@@ -1,0 +1,1 @@
+# kassenbon-scanner-prototype
